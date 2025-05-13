@@ -26,7 +26,9 @@
 
 5. Start up the backend server **"python manage.py runserver"**
 
-6. Now you can navigate to **"http://localhost:5173/"** to access the web application.
+
+ 
+## Now you can navigate to **"http://localhost:5173/"** to access the web application.
 
 
 ## There is a moderator (superuser) account with the following credentials:
