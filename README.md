@@ -16,7 +16,7 @@
 ## For the backend run these commands in this order:
 
 
-1. Navigate to the frontend folder with **"cd backend" (assuming you're in the root folder)**
+1. Navigate to the backend folder with **"cd backend" (assuming you're in the root folder)**
 
 2. Next, install all the dependencies **"pip install -r requirements.txt"**
 
